@@ -27,3 +27,6 @@ Huggingface(pip install transformers)
 https://www.digitalocean.com/community/tutorials/processing-incoming-request-data-in-flask
 To work with form data
 <img width="1132" alt="image" src="https://user-images.githubusercontent.com/79573421/143196966-17199799-2f1b-42c3-b643-fda9a9701cea.png">
+
+Our Bootstrap design format: 
+![image](https://user-images.githubusercontent.com/83263481/143198235-68b5372f-a613-4485-96da-6f427d3b94cf.png)
